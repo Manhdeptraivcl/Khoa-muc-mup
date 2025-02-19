@@ -14,7 +14,7 @@ public class Week4 {
         }
         return min;
     }
-
+// khoa cute vkl em yeu anh khoa
     public static String calculateBMI(double weight, double height){
 	// Tinh BMI
         double bmi = weight / (height * height);
